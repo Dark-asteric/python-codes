@@ -1,0 +1,111 @@
+Array and String:
+
+1. Kadane's algorithm
+2. Dutch national flag algorithm
+3. Sliding window
+4. Two pointers
+
+______________________________________
+
+Multidimensional Array:
+
+1. Traversal Based problems
+2. Rotation Based problems
+
+______________________________________
+
+Recursion and Backtracking
+
+1. Basic recursion problems
+2. Divide and conquer
+
+______________________________________
+
+Sorting Algo
+
+1. Insertion sort
+2. Selection sort
+
+______________________________________
+
+Binary Search Aplications: 
+
+1. Binary search on arrays
+2. Binary search on matrix
+
+______________________________________
+
+Linked Lists:
+
+1. Reversal problems
+2. sorting problems
+3. Slow and fast pointers
+4. Modify in linked list
+
+______________________________________
+
+Stacks and Queues:
+
+1. implementation based problems
+2. Application based problems
+
+______________________________________
+
+Binary trees:
+
+1. Tree traversals
+2. Construction of trees
+3. Tree views
+4. Standard problems
+
+______________________________________
+
+BST :
+
+1. Construction of BST
+2. Conversion based problems
+3. Modification in BST
+4. Standard problems
+
+______________________________________
+
+Priority Queues and Heaps:
+
+1. implementation based problems
+2. conversion based problems
+3. k based problems
+
+______________________________________
+
+Graphs:
+
+1. Graph Traversals (BFS and DFS)
+2. MST
+3. Shortest path Algorithms
+4. Topological sort
+5. Graph in Matrix.
+
+______________________________________
+
+Dynamic Programming:
+
+1. DP with arrays
+2. DP with strings
+3. DP with maths
+4. Dp with trees
+5. Breaking and partition based problems
+6. Counting based problems.
+
+______________________________________
+
+
+Other topics:
+
+1. Hashmaps
+2. Tries
+3. Bit Manipulation
+4. Greedy
+5. circular Queues
+6. Dequeues
+7. Doubly and Circular Linked Lists
+8. KMP and Z algorithm
